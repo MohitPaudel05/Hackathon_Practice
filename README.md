@@ -33,12 +33,18 @@ Our goal is to promote authentic learning and fair coding practices while provid
 | **Frontend** | React  |
 | **Backend (Main)** | ASP.NET Core (.NET 8) |
 | **Model Backend** | FastAPI (Python) |
-| **Machine Learning Model** | Random Forest Classifier |
+| **Machine Learning Model** | Random Forest Classifier  |
 | **Database** | SQL Server / PostgreSQL |
 | **Version Control** | Git + GitHub |
 | **API Testing** | Postman / Ngrok for tunneling |
 
 ---
+### 💡 Future Improvements
+- ✅ **Gradiant Boosting MODELS**  
+ - We plan to test **XGBoost** for better precision, scalability, and feature importance visualization.
+
+- 🤖 **Neural Networks (Deep Learning)**  
+  Once we gather a larger dataset, we’ll experiment with **LSTM** and **Transformer-based models** to capture deeper code context and structure.
 
 ## 🔄 Workflow
 
