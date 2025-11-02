@@ -1,7 +1,7 @@
-# 🤖 TradeCode - AI Detection Coding Platform
+# 🤖 OG CODE - AI Detection Coding Platform
 
 ## 🚀 Overview
-**TradeCode** is a LeetCode-style coding platform where users can practice and test their programming skills.  
+**OG CODE** is a coding platform where users can practice and test their programming skills.  
 Unlike traditional platforms, TradeCode integrates an **AI Detection System** powered by a **Random Forest model** that evaluates how much of a submitted code is **AI-generated** versus **human-written**.
 
 Our goal is to promote authentic learning and fair coding practices while providing organizations with a new way to **evaluate real coding skills**.
@@ -16,7 +16,7 @@ Our goal is to promote authentic learning and fair coding practices while provid
   - Comment density  
   - Variable naming style  
   - Submission timing  
-  - Function structure
+  
 - 🔐 **No Copy-Paste System** – Encourages genuine problem-solving and originality.  
 - 🏆 **Leaderboard System** – Users earn points for each submission. Higher points are awarded for more *human-like* solutions.  
 - 💻 **Skill Testing Environment** – Users can attempt coding challenges similar to LeetCode and get instant AI evaluation feedback.  
@@ -30,7 +30,7 @@ Our goal is to promote authentic learning and fair coding practices while provid
 
 | Layer | Technology Used |
 |-------|------------------|
-| **Frontend** | React (or simple HTML/CSS/JS for demo) |
+| **Frontend** | React  |
 | **Backend (Main)** | ASP.NET Core (.NET 8) |
 | **Model Backend** | FastAPI (Python) |
 | **Machine Learning Model** | Random Forest Classifier |
@@ -56,7 +56,7 @@ Our goal is to promote authentic learning and fair coding practices while provid
 ---
 
 ## 💡 Future Vision
-
+- 📈 **Multi-language Support** – Extend AI detection beyond JavaScript. 
 - 📈 **Sell AI Detection API** to hiring companies for code authenticity checks.  
 - 🧑‍💼 **Monetize Platform** by offering premium coding tests and enterprise APIs.  
 - 🤝 **Partner with Tech Platforms** for integration into online hiring and learning systems.  
@@ -66,7 +66,7 @@ Our goal is to promote authentic learning and fair coding practices while provid
 
 ## 🏁 Demo Pitch Summary
 
-> “TradeCode is an AI-driven coding platform that not only tests your skill but also validates your authenticity.  
+> “OG CODE is an AI-driven coding platform that not only tests your skill but also validates your authenticity.  
 > It detects AI-written code, promotes fair learning, and can even serve as a code authenticity API for tech companies.”
 
 ---
@@ -80,10 +80,10 @@ Our goal is to promote authentic learning and fair coding practices while provid
 
 ---
 
-## 📜 License
+
 
 This project is developed for **Hackathon demo purposes only**.  
-All rights reserved © 2025 **Team Void**.
 
----
+
+
 
